@@ -94,7 +94,18 @@ nav [class*="fa-chevron-down"]{
 .description-ps5 img{
     width:100%;
 }
-
+.description-ps5 div:first-child{
+    font-size:20px;
+    margin-bottom:10px;
+}
+.subtitle-description{
+    font-size:12px;
+    color:#7b7b7b;
+    margin-bottom:10px; 
+}
+.description-ps5 div:last-child{
+    font-size:12px;
+}
 
 
 
