@@ -36,8 +36,22 @@ nav [class*="fa-chevron-down"]{
     background-size:cover;
     background-position:center top;
 }
-
-
+.testo-jumbo{
+    margin-top:250px;
+    color:white;
+}
+.testo-jumbo img{
+    width:150px;
+    margin-bottom:20px;
+}
+.testo-jumbo .title-jumbo{
+    font-size:35px;
+    margin-bottom:20px;
+}
+.testo-jumbo .subtitle-jumbo{
+    margin-bottom:20px;
+    font-size:14px;
+}
 
 
 
