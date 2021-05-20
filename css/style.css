@@ -79,8 +79,9 @@ nav [class*="fa-chevron-down"]{
     color:#3d8bd6;
 }
 .title-presentation{
-    font-size:20px;
+    font-size:25px;
     margin-bottom:10px;
+    font-weight:bold;
 }
 .content-text div:last-child{
     font-size:12px;
@@ -89,14 +90,15 @@ nav [class*="fa-chevron-down"]{
 /* --------------------------------------------------- */
 /* inizio classi per descrizione e foto ps5 */
 .description-ps5{
-    margin-top:100px;
+    margin-top:50px;
 }
 .description-ps5 img{
     width:100%;
 }
 .description-ps5 div:first-child{
-    font-size:20px;
+    font-size:25px;
     margin-bottom:10px;
+    font-weight: bold;
 }
 .subtitle-description{
     font-size:12px;
