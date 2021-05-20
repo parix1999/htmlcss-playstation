@@ -1,0 +1,27 @@
+/* prime due classi per la striscia sony */
+.bg-black{
+    background-color:black;
+    color:white;
+    text-align:right;
+}
+.sony{
+    font-weight: bold;
+    padding-right:5px;
+}
+/* --------------------------------------------------- */
+/* classi di modifica nav-bar di bootstrap */
+.item-nav{
+    color:white;
+    display: flex;
+    justify-content:space-between;
+    width:250px;
+}
+
+
+
+
+
+
+
+
+/* --------------------------------------------------- */
