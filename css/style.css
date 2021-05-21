@@ -156,16 +156,25 @@ nav [class*="fa-chevron-down"]{
     background-position:top center;
 }
 .bg-all-title img{
-    width:150px;
+    width:200px;
+    margin-bottom:24px;
 }
 .text-all-bg-pic{
     color:white;
+    margin-top:30px;
 }
 .text-1-bg-all{
-    font-size:25px;
+    font-size:30px;
+    line-height:normal;
+    margin-bottom:24px;
+}
+@media all and (max-width:1199px){
+    .text-1-bg-all{
+        font-size:32px;
+    } 
 }
 .text-all-bg-pic p:nth-of-type(1){
-    color:red;
+    font-size:16px;
 }
 
 
