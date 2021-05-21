@@ -221,6 +221,7 @@ nav [class*="fa-chevron-down"]{
 .text-box{
     font-size:12px;
     margin-top:10px;
+    margin-bottom:30px;
 }
 .text-box i{
     font-size:12px;
