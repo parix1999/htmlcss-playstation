@@ -36,7 +36,7 @@ nav [class*="fa-chevron-down"]{
 /* classi per il jumbo e testo */
 .jumbo-pic{
     background-image:url('../img/jumbo-bg.png');
-    height:500px;
+    height:600px;
     background-repeat:no-repeat ;
     background-size:cover;
     background-position:center top;
@@ -152,6 +152,11 @@ nav [class*="fa-chevron-down"]{
 .all-bg-pic{
     background-image:url('../img/it-takes-two-hero-banner-desktop.jpg');
     height:600px;
+    background-size:cover;
+    background-position:top center;
+}
+.bg-all-title img{
+    width:150px;
 }
 
 
