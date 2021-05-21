@@ -205,7 +205,6 @@ nav [class*="fa-chevron-down"]{
 .bg-dark{
     background-color:#191919;
     color:white;
-    height:500px;
 }
 .new-game{
     font-size:20px;
