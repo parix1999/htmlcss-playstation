@@ -30,6 +30,7 @@ nav [class*="fa-chevron-down"]{
     position:sticky;
     top:0;
     background-color:white;
+    z-index:1001;
 }
 /* --------------------------------------------------- */
 /* classi per il jumbo e testo */
@@ -147,3 +148,22 @@ nav [class*="fa-chevron-down"]{
     }
 }
 /* --------------------------------------------------- */
+/* classi seconda image in bg con testo innet */
+.all-bg-pic{
+    background-image:url('../img/it-takes-two-hero-banner-desktop.jpg');
+    height:600px;
+}
+
+
+
+
+
+
+
+
+
+
+/* --------------------------------------------------- */
+
+
+
