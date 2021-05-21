@@ -114,9 +114,23 @@ nav [class*="fa-chevron-down"]{
 .description-ps5 div:last-child{
     font-size:12px;
 }
-
-
-
+/* --------------------------------------------------- */
+/* classi foto in schiera */
+.box-ps5{
+    margin-bottom:100px;
+    border-bottom:2px solid white;
+    text-align:center;
+}
+.box-ps5:hover{
+    border-bottom:2px solid blue;
+}
+.box-ps5 img{
+    width:100%;
+    opacity: .5;
+}
+.box-ps5 img:hover{
+    opacity:1;
+}
 
 
 
