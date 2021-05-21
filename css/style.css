@@ -36,7 +36,6 @@ nav [class*="fa-chevron-down"]{
 /* classi per il jumbo e testo */
 .jumbo-pic{
     background-image:url('../img/jumbo-bg.png');
-    height:600px;
     background-repeat:no-repeat ;
     background-size:cover;
     background-position:center top;
@@ -44,6 +43,7 @@ nav [class*="fa-chevron-down"]{
 .testo-jumbo{
     margin-top:200px;
     color:white;
+    margin-bottom:30px;
 }
 .testo-jumbo img{
     width:150px;
@@ -156,7 +156,6 @@ nav [class*="fa-chevron-down"]{
 /* classi seconda image in bg con testo innet */
 .all-bg-pic{
     background-image:url('../img/it-takes-two-hero-banner-desktop.jpg');
-    height:600px;
     background-size:cover;
     background-position:top center;
 }
@@ -167,6 +166,7 @@ nav [class*="fa-chevron-down"]{
 .text-all-bg-pic{
     color:white;
     margin-top:80px;
+    margin-bottom:20px;
 }
 .text-1-bg-all{
     font-size:30px;
@@ -182,7 +182,6 @@ nav [class*="fa-chevron-down"]{
     } 
 }
 @media all and (max-width:991px){
-
     .bg-all-title img{
         width:350px;    
     }
@@ -191,17 +190,21 @@ nav [class*="fa-chevron-down"]{
     } 
 } 
 @media all and (max-width:575px){
-
     .bg-all-title img{
-        width:200px;    
+        width:250px;    
     }
     .text-all-bg-pic{
-        margin-top:20px;
-    }   
-} 
-
-
-
+        margin-top:50px;
+    }
+    .text-1-bg-all{
+        font-size:23px;
+    } 
+}   
+/* --------------------------------------------------- */
+/* classi per le nuove uscite img */
+.bg-dark{
+    background-color:#191919;
+}
 
 
 
@@ -211,6 +214,5 @@ nav [class*="fa-chevron-down"]{
 
 
 /* --------------------------------------------------- */
-
 
 
