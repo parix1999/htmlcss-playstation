@@ -115,20 +115,30 @@ nav [class*="fa-chevron-down"]{
     font-size:12px;
 }
 /* --------------------------------------------------- */
-/* classi foto in schiera */
+/* classi foto in schiera prodotti */
 .box-ps5{
     margin-bottom:100px;
     border-bottom:2px solid white;
     text-align:center;
 }
+.box-ps5:hover .text-description{
+    color:black;
+}
+.box-ps5:hover img{
+    opacity:1;
+}
 .box-ps5:hover{
-    border-bottom:2px solid blue;
+    border-bottom:2px solid #267ed3;
 }
 .box-ps5 img{
-    width:100%;
+    width:80%;
     opacity: .5;
 }
-.box-ps5 img:hover{
-    opacity:1;
+.text-description{
+    font-size:16px;
+    color:#a2a2a2
+}
+.short{
+    margin-bottom:20px;
 }
 /* --------------------------------------------------- */
