@@ -228,16 +228,23 @@ nav [class*="fa-chevron-down"]{
 }
 /* --------------------------------------------------- */
 /* classi di testo titolo per la play 4 */
-.content-text{
+.prova{
+    text-align:center;
+}
+.content-text-2{
     margin-top:70px;
     text-align:center;
+    width:500px;
 }
 .presentation-2{
     font-size:25px;
     color:black;
     margin-bottom:10px;
 }
-
+.content-text-2 div:last-child{
+    font-size:16px;
+    color:#828282;
+}
 
 
 
