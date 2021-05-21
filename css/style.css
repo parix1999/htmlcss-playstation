@@ -226,6 +226,17 @@ nav [class*="fa-chevron-down"]{
 .text-box i{
     font-size:12px;
 }
+/* --------------------------------------------------- */
+/* classi di testo titolo per la play 4 */
+.content-text{
+    margin-top:70px;
+    text-align:center;
+}
+.presentation-2{
+    font-size:25px;
+    color:black;
+    margin-bottom:10px;
+}
 
 
 
