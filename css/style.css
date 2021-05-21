@@ -204,6 +204,12 @@ nav [class*="fa-chevron-down"]{
 /* classi per le nuove uscite img */
 .bg-dark{
     background-color:#191919;
+    color:white;
+    height:500px;
+}
+.new-game{
+    font-size:20px;
+    margin-top:10px;
 }
 
 
