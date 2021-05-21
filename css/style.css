@@ -211,7 +211,21 @@ nav [class*="fa-chevron-down"]{
     font-size:20px;
     margin-top:10px;
 }
-
+.pic-box img{
+    width:100%;
+}
+.pic-box{
+    border-radius:12px;
+    overflow: hidden;
+    margin-top:10px;
+}
+.text-box{
+    font-size:12px;
+    margin-top:10px;
+}
+.text-box i{
+    font-size:12px;
+}
 
 
 
