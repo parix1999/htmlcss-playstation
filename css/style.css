@@ -349,4 +349,22 @@ nav [class*="fa-chevron-down"]{
 }
 
 /* --------------------------------------------------- */
+/* classi footer */
+.bg-ciano{
+    background-color:#1a419d;
+    margin-top:100px;
+    height:500px;
+}
+.footer-first-content{
+    width:100%;
+}
+
+
+
+
+
+
+
+
+/* --------------------------------------------------- */
 
