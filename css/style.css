@@ -275,22 +275,19 @@ nav [class*="fa-chevron-down"]{
     background-color:#c0bdbd;
 }
 .text-bg-gray div:first-child img{
-    width:100%;
+    width:70%;
 }
 .middle-text-bg-gray{
-
+    margin-top:20px;
 }
 
 .text-bg-gray div:last-child{
-
+    margin-top:20px;
+    color:blue;
 }
 .photo-cut img{
     width:100%;
 }
-
-
-
-
 
 
 
