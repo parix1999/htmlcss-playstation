@@ -353,10 +353,9 @@ nav [class*="fa-chevron-down"]{
 .bg-ciano{
     background-color:#1a419d;
     margin-top:100px;
-    height:500px;
 }
 .interlinea{
-    margin-top:50px;
+    padding-top:50px;
 }
 .text-footer{
     color:white;
@@ -376,15 +375,11 @@ nav [class*="fa-chevron-down"]{
 .text-foot{
     margin-top:10px;
     color:white;
+    padding-bottom:50px;
 }
 .text-foot a{
     color:white;
 }
-
-
-
-
-
 
 /* --------------------------------------------------- */
 
