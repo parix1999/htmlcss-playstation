@@ -228,9 +228,7 @@ nav [class*="fa-chevron-down"]{
 }
 /* --------------------------------------------------- */
 /* classi di testo titolo per la play 4 */
-.prova{
-    text-align:center;
-}
+
 .content-text-2{
     margin-top:70px;
     text-align:center;
@@ -302,6 +300,14 @@ nav [class*="fa-chevron-down"]{
 
 }
 
+/* --------------------------------------------------- */
+/* classi PlayStore */
+.playStore-pic{
+    margin-top:50px;
+}
+.playStore-pic img{
+    width:100%;
+}
 
 /* --------------------------------------------------- */
 
