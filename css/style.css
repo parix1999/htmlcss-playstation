@@ -288,7 +288,19 @@ nav [class*="fa-chevron-down"]{
 .photo-cut img{
     width:100%;
 }
+@media all and (max-width:767px){
+    .photo-cut{
+        display:none;
+    }
+    .text-bg-gray div:first-child{
+        margin-top:20px;
+    }
+    .text-bg-gray div:last-child{
+        margin-bottom:20px;
+        ;
+    }
 
+}
 
 
 /* --------------------------------------------------- */
