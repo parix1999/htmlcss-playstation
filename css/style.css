@@ -260,6 +260,7 @@ nav [class*="fa-chevron-down"]{
     font-size:16px;
     color:#7c7c7c;
     margin-bottom:10px;
+    height:72px;
 }
 /* da modificare il bottone */
 .text-ps4 div:last-child{
