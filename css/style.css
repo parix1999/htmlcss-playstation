@@ -335,14 +335,18 @@ nav [class*="fa-chevron-down"]{
     }
 
 }
-
-
-
-
-
-
+/* --------------------------------------------------- */
+/* classi social media */
+.social{
+    text-align:center;
+    margin-top:100px;
+}
+.social-content-pic{
+    margin-top:50PX;
+}
+.social-content-pic img{
+    width:100%;
+}
 
 /* --------------------------------------------------- */
-
-
 
