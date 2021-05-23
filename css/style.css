@@ -370,8 +370,16 @@ nav [class*="fa-chevron-down"]{
     color:white;
     text-decoration:none;
 }
-
-
+.logo-end img{
+    width:30%;
+}
+.text-foot{
+    margin-top:10px;
+    color:white;
+}
+.text-foot a{
+    color:white;
+}
 
 
 
