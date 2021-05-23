@@ -355,8 +355,20 @@ nav [class*="fa-chevron-down"]{
     margin-top:100px;
     height:500px;
 }
-.footer-first-content{
-    width:100%;
+.interlinea{
+    margin-top:50px;
+}
+.text-footer{
+    color:white;
+    margin-top:20px;
+    font-size:16px;
+}
+.text-footer ul{
+    list-style-type:none;
+}
+.text-footer ul li a{
+    color:white;
+    text-decoration:none;
 }
 
 
