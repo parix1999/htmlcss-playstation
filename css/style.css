@@ -37,6 +37,10 @@ nav [class*="fa-chevron-down"]{
     border-radius:20px;
     line-height:30px;
     height:30px; 
+    transition:1s;
+}
+.bottone:hover{
+    transform: scale(1.4);
 }
 .login{
     background-color:#333333;
@@ -280,10 +284,10 @@ nav [class*="fa-chevron-down"]{
     margin-bottom:10px;
     height:72px;
 }
-/* da modificare il bottone */
 .text-ps4 div:last-child{
     color:white;
     background-color:blue;
+    width:100px;
     margin-bottom:100px;
 }
 
@@ -301,7 +305,9 @@ nav [class*="fa-chevron-down"]{
 
 .text-bg-gray div:last-child{
     margin-top:20px;
-    color:blue;
+    color:#4176e6;
+    background-color:#dadbdd;
+    width:200px;
 }
 .photo-cut img{
     width:100%;
@@ -345,6 +351,7 @@ nav [class*="fa-chevron-down"]{
 .text-bg-blue div:last-child{
     margin-top:20px;
     background-color:white;
+    width:200px;
 }
 @media all and (max-width:767px){
     .text-bg-blue div:first-child{
