@@ -3,8 +3,6 @@
     background-color:black;
     color:white;
     text-align:right;
-}
-.sony{
     font-weight: bold;
     padding-right:5px;
 }
@@ -18,13 +16,13 @@
     font-size:12px;
     color:black;
 }
-nav [class*="fa-chevron-down"]{
+nav [class*="freccia-in-giù"]{
     font-size:8px;
 }
-.dimensione{
+.dimensione-font-nav{
     font-size:12px;
 }
-.dimensione:hover i{
+.dimensione-font-nav:hover i{
     color:blue;
 }
 .sticky{
@@ -42,14 +40,14 @@ nav [class*="fa-chevron-down"]{
     transition:1s;
 }
 .bottone:hover{
-    transform: scale(1.4);
+    transform: scale(1.1);
 }
 .login{
     background-color:#333333;
     color:white;
     width:50px;
     line-height:25px;
-    height:25px;   
+    height:25px;  
 }
 /* --------------------------------------------------- */
 /* classi per il jumbo e testo */
@@ -283,7 +281,7 @@ nav [class*="fa-chevron-down"]{
 }
 .text-ps4 div:last-child{
     color:white;
-    background-color:blue;
+    background-color:#2b65e7;
     width:100px;
     margin-bottom:100px;
 }
