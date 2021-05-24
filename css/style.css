@@ -32,6 +32,19 @@ nav [class*="fa-chevron-down"]{
     background-color:white;
     z-index:1001;
 }
+.bottone{
+    text-align:center;
+    border-radius:20px;
+    line-height:30px;
+    height:30px; 
+}
+.login{
+    background-color:#333333;
+    color:white;
+    width:50px;
+    line-height:25px;
+    height:25px;   
+}
 /* --------------------------------------------------- */
 /* classi per il jumbo e testo */
 .jumbo-pic{
@@ -56,6 +69,10 @@ nav [class*="fa-chevron-down"]{
 .testo-jumbo .subtitle-jumbo{
     margin-bottom:20px;
     font-size:14px;
+}
+.button-jumbo{
+    background-color:#ce3a06;
+    width:100px;
 }
 @media all and (max-width:575px){
     .testo-jumbo{
@@ -119,6 +136,9 @@ nav [class*="fa-chevron-down"]{
 }
 .description-ps5 div:last-child{
     font-size:12px;
+    background-color:#2b65e7;
+    width:150px;
+    color:white;
 }
 /* --------------------------------------------------- */
 /* classi foto in schiera prodotti */
