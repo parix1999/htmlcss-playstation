@@ -98,11 +98,11 @@ nav [class*="freccia-in-giù"]{
 }
 /* --------------------------------------------------- */
 /* classi presentazione prodotto */
-.content-text{
+.first-title{
     margin-top:70px;
     text-align:center;
 }
-.content-text div:first-child{
+.first-title div:first-child{
     font-size:16px;
     color:#3d8bd6;
 }
@@ -111,7 +111,7 @@ nav [class*="freccia-in-giù"]{
     margin-bottom:10px;
     font-weight:bold;
 }
-.content-text div:last-child{
+.first-title div:last-child{
     font-size:16px;
     color:#7b7b7b;   
 }
@@ -141,21 +141,21 @@ nav [class*="freccia-in-giù"]{
 }
 /* --------------------------------------------------- */
 /* classi foto in schiera prodotti */
-.box-ps5{
+.box-ps5-pic{
     margin-bottom:100px;
     border-bottom:2px solid white;
     text-align:center;
 }
-.box-ps5:hover .text-description{
+.box-ps5-pic:hover .text-description{
     color:black;
 }
-.box-ps5:hover img{
+.box-ps5-pic:hover img{
     opacity:1;
 }
-.box-ps5:hover{
+.box-ps5-pic:hover{
     border-bottom:2px solid #267ed3;
 }
-.box-ps5 img{
+.box-ps5-pic img{
     width:80%;
     opacity: .5;
 }
