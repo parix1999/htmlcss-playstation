@@ -21,9 +21,11 @@
 nav [class*="fa-chevron-down"]{
     font-size:8px;
 }
-.reducto{
+.dimensione{
     font-size:12px;
-    color:black;
+}
+.dimensione:hover i{
+    color:blue;
 }
 .sticky{
     position:-webkit-sticky;
@@ -78,11 +80,6 @@ nav [class*="fa-chevron-down"]{
     background-color:#ce3a06;
     width:100px;
 }
-@media all and (max-width:575px){
-    .testo-jumbo{
-        margin-top:100px;
-    }
-} 
 /* --------------------------------------------------- */
 /* classi immagini sotto il jumbo */
 .box-image{
@@ -108,16 +105,16 @@ nav [class*="fa-chevron-down"]{
     text-align:center;
 }
 .content-text div:first-child{
-    font-size:12px;
+    font-size:16px;
     color:#3d8bd6;
 }
 .title-presentation{
-    font-size:25px;
+    font-size:30px;
     margin-bottom:10px;
     font-weight:bold;
 }
 .content-text div:last-child{
-    font-size:12px;
+    font-size:16px;
     color:#7b7b7b;   
 }
 /* --------------------------------------------------- */
@@ -129,19 +126,19 @@ nav [class*="fa-chevron-down"]{
     width:100%;
 }
 .description-ps5 div:first-child{
-    font-size:25px;
-    margin-bottom:10px;
+    font-size:30px;
+    margin-bottom:20px;
     font-weight: bold;
 }
 .subtitle-description{
-    font-size:12px;
+    font-size:16px;
     color:#7b7b7b;
-    margin-bottom:10px; 
+    margin-bottom:20px; 
 }
 .description-ps5 div:last-child{
-    font-size:12px;
+    font-size:16px;
     background-color:#2b65e7;
-    width:150px;
+    width:200px;
     color:white;
 }
 /* --------------------------------------------------- */
