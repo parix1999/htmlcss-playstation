@@ -80,21 +80,21 @@ nav [class*="freccia-in-giù"]{
 }
 /* --------------------------------------------------- */
 /* classi immagini sotto il jumbo */
-.box-image{
+.box-image-cut{
     margin-top:50px;
     border-radius:12px;
     border:2px solid white;
 }
-.box-image:hover{
+.box-image-cut img{
+    width:100%;
+}
+.box-image-cut:hover{
     border:2px solid blue;
 }
 .box-innet{
     border-radius:12px;
     border:3px solid white;
     overflow: hidden;
-}
-.box-image img{
-    width:100%;
 }
 /* --------------------------------------------------- */
 /* classi presentazione prodotto */
