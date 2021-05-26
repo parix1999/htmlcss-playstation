@@ -105,6 +105,7 @@ nav [class*="freccia-in-giù"]{
 .first-title div:first-child{
     font-size:16px;
     color:#3d8bd6;
+    margin-bottom:10px;
 }
 .title-presentation{
     font-size:30px;
